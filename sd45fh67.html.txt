@@ -5,9 +5,12 @@
 </head>
 <body>
     <h1>Assignment 0 Submission</h1>
-    <p>Name: Mannat</p>
-    <p>Section #: 01</p>
-    <p>Email: mmannat@horizon.csueastbay.edu.com</p>
-    <p>This page is for CS453 Assignment 0 submission.</p>
+    <p><strong>Name:</strong> Mannat</p>
+    <p><strong>Section #:</strong> 01</p>
+    <p><strong>Email:</strong> mmannat@horizon.csueastbay.edu</p>
+    <p>This page is for CS453 – Summer 2025 – Mobile Programming Assignment 0 submission.</p>
+    <p><strong>GitHub Username:</strong> mmannat</p>
+    <p><strong>GitHub Pages URL:</strong> <a href="https://mmannat.github.io/sd45fh67.html" target="_blank">https://mmannat.github.io/sd45fh67.html</a></p>
+    <p><strong>App Screenshot:</strong> Submitted on Canvas</p>
 </body>
 </html>
