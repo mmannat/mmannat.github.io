@@ -1,0 +1,22 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+local.properties
+*.keystore
+
+*.log
+*.tmp
+.DS_Store
+
+# Android Studio files
+.idea/
+.gradle/
+build/
+captions/
+app/build/
+
+# Git
+*.orig
